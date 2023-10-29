@@ -25,10 +25,21 @@ Welcome to the ChatGPT Desktop App! This user-friendly desktop application allow
 
 ## Prerequisites
 
+See requirements.txt 
 Before you get started with the ChatGPT Desktop App, make sure you have the following prerequisites installed:
 
 - Python 3.6 or higher
 - OpenAI Python library (`openai`): You can install it using pip.
+
+## Installation
+
+To install and run the ChatGPT Desktop App, follow these steps:
+
+1. Clone the repository from GitHub:
+
+   ```bash
+   git clone https://github.com/Matthew-Oj/ChatGPTChatbot.git
+
   
 Run install: 
    ```bash
