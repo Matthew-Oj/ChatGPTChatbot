@@ -36,7 +36,6 @@ Before you get started with the ChatGPT Desktop App, make sure you have the foll
 To install and run the ChatGPT Desktop App, follow these steps:
 
 1. Clone the repository from GitHub:
-
    ```bash
    git clone https://github.com/Matthew-Oj/ChatGPTChatbot.git
 
